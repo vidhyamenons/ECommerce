@@ -1,0 +1,7 @@
+16:25:03.459 [main] INFO  resources.base - Test verified
+16:25:03.629 [main] INFO  resources.base - Driver closed
+16:26:40.004 [main] INFO  resources.base - Chrome is initiated again
+16:26:42.499 [main] INFO  resources.base - Items Added
+16:26:42.672 [main] INFO  resources.base - Clicked on cart
+16:26:43.031 [main] INFO  resources.base - Test verified
+16:26:43.528 [main] INFO  resources.base - Driver closed
